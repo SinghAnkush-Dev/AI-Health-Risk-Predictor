@@ -1,14 +1,13 @@
-# ❤️ AI Health Risk Predictor
+# 🩺 AI Health Risk Predictor
 
-An end-to-end Machine Learning web application that predicts the risk of Heart Disease using patient health data. The application provides real-time predictions through an interactive Streamlit dashboard, helping users understand potential health risks based on clinical parameters.
+An end-to-end Machine Learning web application that predicts health risks using patient clinical data. The application provides real-time predictions through an interactive Streamlit dashboard and is designed to support intelligent healthcare risk assessment.
 
 ---
 
 ## 🚀 Features
 
-- ❤️ Heart Disease Risk Prediction
-- 📊 Risk Probability Score
-- 🤖 Machine Learning Model (Random Forest)
+- 📊 Health Risk Prediction
+- 🤖 Machine Learning Model
 - 📈 Data Analysis & Visualization
 - 🎯 Interactive Streamlit Dashboard
 - 💾 Trained Model Saving with Joblib
@@ -39,19 +38,9 @@ AI-Health-Risk-Predictor/
 │── README.md
 │
 ├── data/
-│   ├── heart.csv
-│   └── diabetes.csv
-│
 ├── models/
-│   ├── heart_model.pkl
-│   ├── diabetes_model.pkl
-│   └── scaler.pkl
-│
 ├── notebooks/
-│   └── EDA.ipynb
-│
 ├── utils/
-│
 └── assets/
 ```
 
@@ -64,7 +53,7 @@ AI-Health-Risk-Predictor/
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Train-Test Split
-- Model Training (Random Forest)
+- Model Training
 - Model Evaluation
 - Model Saving
 - Streamlit Deployment
@@ -112,16 +101,16 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-> Add screenshots of your Streamlit dashboard here.
+_Add screenshots of your Streamlit dashboard here._
 
 ---
 
 ## 🔮 Future Improvements
 
-- 🩸 Diabetes Risk Prediction
+- 🩸 Multiple Disease Prediction
 - 📈 BMI Calculator
 - 📊 Interactive Plotly Dashboard
-- 🤖 SHAP Explainable AI
+- 🤖 Explainable AI (SHAP)
 - 📄 PDF Health Report
 - 🗂️ Prediction History (SQLite)
 - 🌙 Dark Theme
