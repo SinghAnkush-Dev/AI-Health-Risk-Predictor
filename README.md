@@ -101,7 +101,8 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-_Add screenshots of your Streamlit dashboard here._
+(<img width="1470" height="956" alt="Screenshot 2026-07-17 at 12 24 20 AM" src="https://github.com/user-attachments/assets/5f141d2a-9d0d-4709-a839-47aef9fcc470" />)
+
 
 ---
 
