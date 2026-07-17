@@ -4,6 +4,12 @@ An end-to-end Machine Learning web application that predicts health risks using 
 
 ---
 
+## 🌐 Live Demo
+
+http://localhost:8501
+
+---
+
 ## 🚀 Features
 
 - 📊 Health Risk Prediction
