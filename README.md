@@ -101,7 +101,7 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-(<img width="1470" height="956" alt="Screenshot 2026-07-17 at 12 24 20 AM" src="https://github.com/user-attachments/assets/5f141d2a-9d0d-4709-a839-47aef9fcc470" />)
+(<img width="1470" height="956" alt="Screenshot 2026-07-17 at 10 31 11 AM" src="https://github.com/user-attachments/assets/dae1340f-c88e-4270-896a-90cd8e145b67" />)
 
 
 ---
